@@ -26,3 +26,4 @@
   In conclusion, Task 2 focused on connecting presentation and data. I gained knowledge on how to take unprocessed sales data and turn it into an aesthetically pleasing PDF report. Data analysts, financial teams, and anyone else working in reporting can all benefit from this ability in addition to developers. This task gave me practical experience in creating dynamic, automated documents, which is a powerful tool.
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/bcc7a413-261a-4cfc-b747-daf9a39d3b65)
